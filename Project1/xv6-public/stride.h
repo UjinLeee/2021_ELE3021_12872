@@ -1,0 +1,5 @@
+#include "types.h"
+#include "defs.h"
+#include "param.h"
+#include "x86.h"
+#include "proc.h"
